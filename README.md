@@ -18,7 +18,7 @@
 
 - 👨‍💻 Check out my [portfolio](https://jhaayush.netlify.app)
 
-- 😉 Fun fact :- Coding algorithms or painting strokes, my canvas knows no bounds.
+- 😉 Fun fact :- Coding algorithms or painting strokes, my canvas knows no bounds!
 
 <br>
 
