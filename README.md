@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **ayushrajonline7@gmail.com**
 
-- 💬 Ask me about **python**, **javascript**, **scripting** and **backend-development**
+- 💬 Ask me about **Frontend-Development**, **JavaScript**, **scripting** and **Backend-Development**
 
 - 👨‍💻 Check out my [portfolio](https://jhaayush.netlify.app)
 
@@ -96,18 +96,18 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=th3-ma3stro&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jha-geek-ayush&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th3-ma3stro&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jha-geek-ayush&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="JH@⌣@YUSH" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3-ma3stro&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jha-geek-ayush&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="JH@⌣@YUSH" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
