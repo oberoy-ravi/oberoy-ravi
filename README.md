@@ -114,10 +114,10 @@
                 src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
                 alt="selenium" width="40" height="40" /> </a>  <a href="https://www.adobe.com/products/xd.html"
             target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"
-                width="40" height="40" /> </a> </p>
+                width="40" height="40" /> </a> 
                 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-                alt="android" width="40" height="40" /> </a>
+                alt="android" width="40" height="40" /> </a> </p>
         <br>
 
 <h3>Statistical Data :-</h3>
