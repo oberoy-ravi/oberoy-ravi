@@ -6,6 +6,7 @@
     alt="views" /> 
   </p>
 
+<br>
 
 <p><img align="right" src="https://github.com/JHA-geek-AYUSH/jha-ayush/blob/main/animation.gif" alt="JH@⌣@YUSH" /></p>
 
@@ -19,16 +20,18 @@
 
 - 😉 Fun fact :- Coding algorithms and painting strokes, my canvas knows no bounds
 
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-
 <a href="https://instagram.com/itsmeoberoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmeoberoy" height="30" width="40" /></a>
+
 
 <a href="https://www.hackerrank.com/ayushrajonline7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushrajonline7" height="30" width="40" /></a>
 </p>
 
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -66,12 +69,8 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 
-
-
- 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -91,9 +90,6 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-
-
-
 
 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
