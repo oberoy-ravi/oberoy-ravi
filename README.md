@@ -25,19 +25,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/th3-ma3stro/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="satyam jha" height="30" width="40" /></a>
-<a href="https://instagram.com/maestro__xd" target="blank"><img align="center"
+<a href="https://instagram.com/itsmeoberoy" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="maestro__xd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/maestro__xp" target="blank"><img align="center"
+      alt="itsmeoberoy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayushrajonline7" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="maestro__xd" height="30" width="40" /></a>
-<a href="https://twitter.com/th3_ma3stro" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="th3_ma3stro" height="30" width="40" /></a>
-
 </p>
 
 <br>
