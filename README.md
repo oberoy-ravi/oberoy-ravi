@@ -18,7 +18,7 @@
 
 - 👨‍💻 Check out my [portfolio](https://jhaayush.netlify.app)
 
-- 😉 Fun fact :- Gym🏋️‍♂️ and Music🎵 are the reasons to live.
+- 😉 Fun fact :- Coding algorithms and painting strokes, my canvas knows no bounds.
 
 <br>
 
