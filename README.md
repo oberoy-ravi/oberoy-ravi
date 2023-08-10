@@ -47,26 +47,26 @@
     <a href="https://www.java.com/en/"> <img src="https://skillicons.dev/icons?i=java" /> </a>  
     <a href="https://kotlinlang.org/"> <img src="https://skillicons.dev/icons?i=kotlin" /> </a>  
     <a href="https://devdocs.io/c/"> <img src="https://skillicons.dev/icons?i=c" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=dart" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=django" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=flutter" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=figma" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=git" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=mongodb" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=nodejs" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=express" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=qt" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=python" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=react" /> </a> 
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=sass" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=selenium" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=replit" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=androidstudio" /> </a>  
-     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=linux" /> </a>  
-     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=vim" /> </a>  
-     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=ai" /> </a>  
-     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=xd" /> </a>  
-     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=pr" /> </a>
+    <a href="https://dart.dev/"> <img src="https://skillicons.dev/icons?i=dart" /> </a>  
+    <a href="https://docs.djangoproject.com/en/4.2/"> <img src="https://skillicons.dev/icons?i=django" /> </a>  
+    <a href="https://flutter.dev/"> <img src="https://skillicons.dev/icons?i=flutter" /> </a>  
+    <a href="https://www.figma.com/"> <img src="https://skillicons.dev/icons?i=figma" /> </a>  
+    <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=git" /> </a>  
+    <a href="https://www.mongodb.com/"> <img src="https://skillicons.dev/icons?i=mongodb" /> </a>  
+    <a href="https://nodejs.org/en"> <img src="https://skillicons.dev/icons?i=nodejs" /> </a>  
+    <a href="https://expressjs.com/"> <img src="https://skillicons.dev/icons?i=express" /> </a>  
+    <a href="https://doc.qt.io/"> <img src="https://skillicons.dev/icons?i=qt" /> </a>  
+    <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python" /> </a>  
+    <a href="https://react.dev/"> <img src="https://skillicons.dev/icons?i=react" /> </a> 
+    <a href="https://sass-lang.com/"> <img src="https://skillicons.dev/icons?i=sass" /> </a>  
+    <a href="https://www.selenium.dev/"> <img src="https://skillicons.dev/icons?i=selenium" /> </a>  
+    <a href="https://replit.com/"> <img src="https://skillicons.dev/icons?i=replit" /> </a>  
+    <a href="https://developer.android.com/studio"> <img src="https://skillicons.dev/icons?i=androidstudio" /> </a>  
+     <a href="https://www.linux.org/"> <img src="https://skillicons.dev/icons?i=linux" /> </a>  
+     <a href="https://www.vim.org/"> <img src="https://skillicons.dev/icons?i=vim" /> </a>  
+     <a href="https://helpx.adobe.com/in/illustrator/user-guide.html"> <img src="https://skillicons.dev/icons?i=ai" /> </a>  
+     <a href="https://helpx.adobe.com/in/xd/user-guide.html"> <img src="https://skillicons.dev/icons?i=xd" /> </a>  
+     <a href="https://helpx.adobe.com/premiere-pro/user-guide.html"> <img src="https://skillicons.dev/icons?i=pr" /> </a>
   </a>
 </p>
 
