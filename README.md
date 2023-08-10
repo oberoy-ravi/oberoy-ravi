@@ -45,8 +45,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=javascript" /> </a>  
     <a href="https://www.typescriptlang.org/"> <img src="https://skillicons.dev/icons?i=typescript" /> </a>  
     <a href="https://www.java.com/en/"> <img src="https://skillicons.dev/icons?i=java" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=kotlin" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=c" /> </a>  
+    <a href="https://kotlinlang.org/"> <img src="https://skillicons.dev/icons?i=kotlin" /> </a>  
+    <a href="https://devdocs.io/c/"> <img src="https://skillicons.dev/icons?i=c" /> </a>  
     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=dart" /> </a>  
     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=django" /> </a>  
     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=flutter" /> </a>  
@@ -69,6 +69,9 @@
      <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=pr" /> </a>
   </a>
 </p>
+
+<br>
+
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jha-geek-ayush&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
