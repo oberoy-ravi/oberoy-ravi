@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
+<img src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" width="100">
 
 <br>
 
