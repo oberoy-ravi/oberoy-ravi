@@ -25,11 +25,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/itsmeoberoy" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="itsmeoberoy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayushrajonline7" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="ayushrajonline7" height="30" width="40" /></a>
+      src="https://skillicons.dev/icons?i=instagram"
+      alt="itsmeoberoy" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/ayushrajonline7" target="blank">
+      <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="jha-geek-ayush" height="30" width="30" 
+      alt="ayushrajonline7" /></a>
 </p>
 
 <br>
