@@ -37,26 +37,13 @@
 <br>
 
 ## Languages and Tools:
-
-| HTML | CSS | Bootstrap | Tailwind | JavaScript | TypeScript | Java |
-| --- | --- | --- | --- | --- | --- | --- |
-| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) | ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) | ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) |
-
-
-| Kotlin | C | Dart | Django | Figma | Flutter | Git |
-| --- | --- | --- | --- | --- | --- | --- |
-| ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg) | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) | ![Django](https://cdn.worldvectorlogo.com/logos/django.svg) | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) | ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)| ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) |
-
-| Linux | MongoDB | Node.js | Python | Qt | React | React Native |
-| --- | --- | --- | --- | --- | --- | --- |
-| ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Qt](https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg) | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | ![React Native](https://reactnative.dev/img/header_logo.svg) |
-
-
-| Sass | Selenium | Illustrator | Adobe XD | Android | Express.js |
-| --- | --- | --- | --- | --- | --- |
-| ![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg) | ![Selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg) | ![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg) | ![Adobe XD](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg) | ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg) | ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) |
-
-<br>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,java,kotlin,c,dart,django,flutter,figma,git,mongodb,nodejs,express,qt,python,react,sass,selenium,replit,androidstudio&perline=8" /> <br>
+      <img src="https://skillicons.dev/icons?i=linux,vim&perline=8" /> <br>
+      <img src="https://skillicons.dev/icons?i=ai,xd,pr&perline=8" />
+  </a>
+</p>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
