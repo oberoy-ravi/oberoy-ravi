@@ -38,9 +38,11 @@
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,java,kotlin,c,dart,django,flutter,figma,git,mongodb,nodejs,express,qt,python,react,sass,selenium,replit,androidstudio&perline=8" /> <br>
-     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=linux,vim&perline=8" /> </a> <br>
-      <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=ai,xd,pr&perline=8" />
-  </a>
+     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=linux&perline=8" /> </a>
+     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=vim&perline=8" /> </a> <br>
+     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=ai&perline=8" /> </a>
+     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=xd&perline=8" /> </a>
+     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=pr&perline=8" /> </a>
 </p>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
