@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
-<img src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" width="100">
+
 
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=jha-geek-ayush&label=Profile%20views&color=0e75b6&style=flat"
     alt="views" /> 
   </p>
-
+<p><img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380px" style="margin-top: 4520px;" alt="JH@⌣@YUSH" /></p>
 <br>
 
-<p><img align="right" src="https://github.com/JHA-geek-AYUSH/jha-ayush/blob/main/animation.gif" alt="JH@⌣@YUSH" /></p>
 
 - 🌱 I’m currently learning about Data Structures and Algorithms
 
@@ -128,7 +127,7 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jha-geek-ayush&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    alt="JH@⌣@YUSH" 
     bg_color=#808080/></p>
 
 <br>
