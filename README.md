@@ -41,10 +41,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://skillicons.dev/icons?i=html" /> </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://skillicons.dev/icons?i=css" /> </a>  
     <a href="https://getbootstrap.com/"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=tailwind" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=javascript" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=typescript" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=java" /> </a>  
+    <a href="https://tailwindcss.com/"> <img src="https://skillicons.dev/icons?i=tailwind" /> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=javascript" /> </a>  
+    <a href="https://www.typescriptlang.org/"> <img src="https://skillicons.dev/icons?i=typescript" /> </a>  
+    <a href="https://www.java.com/en/"> <img src="https://skillicons.dev/icons?i=java" /> </a>  
     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=kotlin" /> </a>  
     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=c" /> </a>  
     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=dart" /> </a>  
