@@ -37,12 +37,37 @@
 ## Languages and Tools:
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,java,kotlin,c,dart,django,flutter,figma,git,mongodb,nodejs,express,qt,python,react,sass,selenium,replit,androidstudio&perline=8" /> <br>
-     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=linux&perline=8" /> </a>
-     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=vim&perline=8" /> </a> <br>
-     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=ai&perline=8" /> </a>
-     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=xd&perline=8" /> </a>
-     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=pr&perline=8" /> </a>
+  <br>
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=html" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=css" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=tailwind" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=javascript" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=typescript" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=java" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=kotlin" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=c" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=dart" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=django" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=flutter" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=figma" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=git" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=mongodb" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=nodejs" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=express" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=qt" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=python" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=react" /> </a> 
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=sass" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=selenium" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=replit" /> </a>  
+    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=androidstudio" /> </a>  
+     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=linux" /> </a>  
+     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=vim" /> </a>  
+     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=ai" /> </a>  
+     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=xd" /> </a>  
+     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=pr" /> </a>
+  </a>
 </p>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
