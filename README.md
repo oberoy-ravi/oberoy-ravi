@@ -99,7 +99,10 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
       </a><br>Figma
     </td>
-      <br>
+  </tr>
+</table>
+<table>
+    <tr>
     <td align="center" width="96">
       <a href="https://flutter.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
@@ -155,6 +158,10 @@
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
       </a><br>Selenium
     </td>
+    </tr>
+</table>
+<table>
+    <tr>
     <td align="center" width="96">
       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
