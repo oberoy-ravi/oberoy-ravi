@@ -38,9 +38,9 @@
 <p align="center">
   <a href="">
   <br>
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=html" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=css" /> </a>  
-    <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://skillicons.dev/icons?i=html" /> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://skillicons.dev/icons?i=css" /> </a>  
+    <a href="https://getbootstrap.com/"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>  
     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=tailwind" /> </a>  
     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=javascript" /> </a>  
     <a href="https://google.com/"> <img src="https://skillicons.dev/icons?i=typescript" /> </a>  
